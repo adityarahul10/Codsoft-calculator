@@ -9,4 +9,4 @@ This is the core code from scratch to create a **Calculator** using **HTML, CSS,
 
 [![built with love](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/adityarahul10/Weather-App)
 
-</p># Weather App
+</p># Calculator
